@@ -1,0 +1,211 @@
+
+
+.body {
+  background-color: rgb(211, 234, 227);
+}
+
+.wrapper {
+  padding-top: 20px;
+  max-width: 375px;
+  margin: 0 auto;
+  color: white;
+}
+.container {
+  display: flex;
+  width: 100%;
+
+
+  background: url(/img/fonts.png);
+}
+
+.header {
+  display: flex;
+  background: black;
+}
+.name {
+  display: flex;
+  width: 100%;
+ 
+  height: 45px;
+}
+
+.name-avatar {
+  display: inline-block;
+  width: 100%;
+}
+
+.dubna {
+  color: white;
+}
+
+.name-avatars {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  line-height: 15px;
+}
+
+.avatar {
+  padding-top: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+  /* border-radius: 50%; */
+}
+
+#avatar {
+  height: 45px;
+}
+
+/* .main {
+  display: flex;
+  width: 100%;
+} */
+
+.points {
+  width: 1px;
+  margin: 0px 30px 0px 20px;
+  padding-right: 1px;
+
+  padding-top: 5px;
+}
+
+.photo1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.photo {
+  margin-top: 7px;
+}
+
+.like {
+  display: flex;
+}
+
+.heart {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.height {
+  height: 30px;
+}
+
+.like_coment {
+  display: flex;
+}
+
+
+.point {
+  width: 100%;
+  padding-left: 60px;
+}
+
+.point1 {
+  height: 10px;
+}
+.sv {
+  height: 30px;
+}
+.save {
+  padding: 1px 15px 0px 15px;
+}
+
+.info-like-friends {
+  display: flex;
+  
+}
+
+.friends {
+  height: 25px;
+  padding: 5px 10px 15px 10px;
+}
+
+.like-people {
+  
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 40px;
+  padding-top: 10px;
+  margin: 0%;
+}
+
+.like-name {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 10px;
+  margin-top: 5px;
+  height: 0px;
+  color: white;
+}
+
+.hidden {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+  color: #9c9797;
+  padding-left: 10px;
+  margin: 0;
+}
+
+.friend-coments {
+  display: flex;
+}
+
+.friend-coments1 {
+  padding-left: 10px;
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding-top: 5px;
+  color: white;
+}
+
+.heart-coment {
+  padding-top: 7px;
+  padding-left: 30px;
+}
+.friend-coments2 {
+  display: flex;
+}
+
+.friend-coments22 {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+
+  padding-left: 10px;
+  padding-top: 5px;
+  margin: 0;
+  color: white;
+}
+
+.heart-like1 {
+  height: 25px;
+  padding-right: 12px;
+  padding-bottom: 15px;
+}
+
+.heart-like {
+  height: 25px;
+  padding-right: 12px;
+  padding-bottom: 15px;
+}
+
+.page-footer {
+  
+  background: black;
+  color: rgb(123, 118, 118);
+  text-align: left;
+  padding-left: 10px;
+}
+
+/* .page-footer. {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+} */
+
+.p {
+  display: inline-block;
+  color: white;
+}
