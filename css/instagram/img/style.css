@@ -1,0 +1,198 @@
+.body {
+  max-width: 375px;
+  margin: 0 auto;
+  color: white;
+}
+.container {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  background: url(/img/fonts.png);
+}
+
+/* .header {
+  display: flex;
+} */
+.name {
+  display: flex;
+  width: 100%;
+  height: 40px;
+}
+
+.name-avatar {
+  display: inline-block;
+  width: 100%;
+  padding-top: 10px;
+}
+.name-avatar-font {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  line-height: 15px;
+}
+
+.avatar {
+  padding-top: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+#avatar {
+  height: 45px;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+}
+
+.points {
+  width: 1px;
+  margin: 0px 30px 0px 20px;
+  padding-right: 1px;
+  padding-top: 5px;
+}
+
+.photo1 {
+  width: 100%;
+}
+.photo {
+  margin-top: 7px;
+}
+
+.like {
+  display: flex;
+}
+
+.heart {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.height {
+  height: 25px;
+}
+
+.like_coment {
+  display: flex;
+}
+
+.flair {
+  display: inline-block;
+  padding: 0 5px;
+}
+
+.point {
+  width: 100%;
+  padding-left: 60px;
+}
+
+.point1 {
+  height: 10px;
+}
+.sv {
+  height: 25px;
+}
+.save {
+  padding: 1px 15px 0px 15px;
+  height: 25px;
+}
+
+.info-like-friends {
+  display: flex;
+  height: 30px;
+}
+
+.friends {
+  height: 25px;
+  width: 20%;
+  padding: 5px 10px 15px 10px;
+}
+
+.like-people {
+  width: 100%;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 40px;
+  padding-top: 10px;
+  margin: 0%;
+}
+
+.like-name {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 10px;
+  margin-top: 5px;
+  height: 0px;
+  color: white;
+}
+
+.coment-look {
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+  color: #9c9797;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin: 0;
+}
+
+.friend-coment {
+  display: flex;
+}
+
+.friend-coment1c {
+  padding-left: 10px;
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding-top: 5px;
+  color: white;
+}
+
+.heart-coment {
+  padding-top: 7px;
+  padding-left: 30px;
+}
+.friend-comentd {
+  display: flex;
+}
+
+.friend-coment2c {
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+
+  padding-left: 10px;
+  padding-top: 5px;
+  margin: 0;
+  color: white;
+}
+
+.heart-like1 {
+  height: 25px;
+  padding-right: 12px;
+  padding-bottom: 15px;
+}
+
+.heart-like {
+  height: 25px;
+  padding-right: 12px;
+  padding-bottom: 15px;
+}
+
+.page-footer {
+  padding: 1rem;
+  background: black;
+  color: rgb(123, 118, 118);
+  text-align: left;
+}
+/* .page-footer. {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+} */
+
+.p {
+  display: inline-block;
+  color: white;
+}
